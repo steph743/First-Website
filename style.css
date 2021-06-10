@@ -1,3 +1,17 @@
+
+
+/* centering the main photo */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-size: 15px;
+  height: auto;
+}
+
 header div h1 {
   font-family: fantasy;
   color: aliceblue;
@@ -21,6 +35,8 @@ main {
   background-color: aliceblue;
   color: darkblue;
   font-family: "Comic Sans MS";
+  padding: 15%;
+  margin: auto;
 }
 
 footer {
@@ -29,4 +45,10 @@ footer {
   font-family: cursive;
   padding: 1%;
 }
+
+/* styling for the links */
+a:link {color: #0000ff;}
+a:visited {color: red;}
+a:hover {color: paleturquoise;}
+a:active {color: purple;}
 
