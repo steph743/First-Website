@@ -1,0 +1,25 @@
+header div h1 {
+  font-family: fantasy;
+  color: aliceblue;
+}
+
+header div h2 {
+  font-family: Florence, cursive;
+  color: aliceblue;
+}
+
+header {
+  background-color: darkblue;
+  padding: 5%
+}
+
+h1, h2, h5 {
+  text-align: center;
+}
+
+main {
+  background-color: aliceblue;
+  color: darkblue;
+  font-family: "Comic Sans MS";
+}
+
