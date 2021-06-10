@@ -23,3 +23,10 @@ main {
   font-family: "Comic Sans MS";
 }
 
+footer {
+  background-color: darkblue;
+  color: aliceblue;
+  font-family: cursive;
+  padding: 1%;
+}
+
